@@ -7,5 +7,5 @@ CREATE TABLE EMPLOYEE(
                      ADDRESS VARCHAR(200) NOT NULL
 );
 
-INSERT INTO EMPLOYEE(ID, FIRSTNAME, LASTNAME, EMAIL, MOBILE, ADDRESS) VALUES (null,'Kostas','Papadopoulos','kostasp@whatever.com','+30 99999999998','Themistokleous 35');
-INSERT INTO EMPLOYEE(ID, FIRSTNAME, LASTNAME, EMAIL, MOBILE, ADDRESS) VALUES (null,'Giorgos','Papaxatzixristodoulidis','giorgosp@whatever.com','+30 8888888889','Aristotelous 1');
+INSERT INTO EMPLOYEE(ID, FIRSTNAME, LASTNAME, EMAIL, MOBILE, ADDRESS) VALUES (null,'John','Smith','jsmith@whatever.com','+36 99999999998','Smith 35');
+INSERT INTO EMPLOYEE(ID, FIRSTNAME, LASTNAME, EMAIL, MOBILE, ADDRESS) VALUES (null,'Robert','Smith','rsmith@whatever.com','+36 8888888889','Smith 1');
